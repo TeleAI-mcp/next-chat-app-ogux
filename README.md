@@ -1,2 +1,3 @@
-# next-chat-app-ogux
+# Next Chat App Ogux
+
 A repository to test GitHub automation for issue management.
